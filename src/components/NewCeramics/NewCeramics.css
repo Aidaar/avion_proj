@@ -1,0 +1,20 @@
+.new_ceramics {
+	padding: 80px 0 55px 0;
+}
+
+.new_ceramics-title {
+	margin-bottom: 30px;
+	color: #2A254B;
+	font-family: Clash Display;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.new_ceramics .cart_block {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 1rem;
+}
+
