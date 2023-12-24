@@ -11,7 +11,6 @@ const About = () => {
 				<div className="cart_blocks">
 				{DataAbout.map((item, index) => (
 					<Cart
-						key={index} 
 						icon={item.icon}
 						title={item.title}
 						desc={item.desc}
